@@ -706,11 +706,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .reviews .slick-slider {
-    padding: 40px 110px;
+    padding: 40px 115px;
 }
 
 .reviews__item {
-    padding-left: 245px;
+    padding-left: 190px;
     position: relative;
 }
 
@@ -726,18 +726,18 @@ h1, h2, h3, h4, h5, h6 {
 
     border: 2px #ccc solid;
 
-    width: 210px;
-    height: 210px;
+    width: 150px;
+    height: 150px;
 }
 
 .reviews__text {
     margin-bottom: 15px;
-    padding-top: 42px;
+    padding-top: 25px;
 
     font-family:'Montserrat', sans-serif;
     font-style: italic;
     font-weight: 300;
-    font-size: 24px;
+    font-size: 21px;
     color: #fff;
 }
 
